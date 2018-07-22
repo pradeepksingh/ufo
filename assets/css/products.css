@@ -1,0 +1,132 @@
+
+ .welcome {
+  height: 800px;
+  overflow: hidden;
+}
+.btn1{
+  width: 170px;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.5px;
+  text-align: center;
+  color: #ffffff;
+  padding: 6px;
+  border:none;
+  border-radius: 10px;
+  background-color: #49b0e4;
+}
+
+.selection img {
+  width: 100%;
+height:auto;
+}
+
+
+.left { float: left; }
+
+h1 {
+  font-size: 6em;
+  font-weight: normal;
+  transform: translateX(-100%);
+}
+
+p {
+  font-size: 2em;
+  margin: 0.5em 0 2em 0;
+}
+
+.intro {
+  position: absolute;
+  top: 50%;
+  text-align: center;
+}
+
+
+
+ @-webkit-keyfarmes 
+sectitle0 {  0% {
+}
+ 100% {
+ -webkit-transform:translateX(0);
+ transform:translateX(0);
+}
+}
+ @keyfarmes 
+sectitle0 {  0% {
+}
+ 100% {
+ -webkit-transform:translateX(0);
+ transform:translateX(0);
+}
+}
+ @-webkit-keyfarmes 
+sec0 {  0% {
+}
+ 100% {
+ -webkit-transform:translateX(0);
+ transform:translateX(0);
+}
+}
+ @keyfarmes 
+sec0 {  0% {
+}
+ 100% {
+ -webkit-transform:translateX(0);
+ transform:translateX(0);
+}
+}
+
+.slide {
+}
+.pages {
+  position: absolute;
+  list-style: none;
+}
+
+.vertical.pages {
+  right: 10px;
+  top: 50%;
+}
+
+.horizontal.pages {
+  left: 50%;
+  bottom: 10px;
+}
+
+.pages li {
+	content:'hello';
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #cfced1;;
+  margin: 10px 5px;
+  cursor: pointer;
+}
+
+.horizontal.pages li {
+  display: inline-block;
+  vertical-align: middle;
+}
+p{
+	 font-size: 18px;
+  font-weight: 300;
+  line-height: 1.67;
+  letter-spacing: 0.5px;
+  text-align: left;
+  color: #000000;
+}
+.pages li.active {
+  width: 14px;
+  height: 14px;
+  background: #4ab0e3 !important;
+  border: 2px solid #4ab0e3;
+  background: none;
+}
+
+h3{
+    font-size: 45px;
+    font-weight: 500;
+    text-align: left;
+    color: #000000;
+}

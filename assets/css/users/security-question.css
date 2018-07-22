@@ -1,0 +1,154 @@
+.security-question{
+	margin-top:10%;
+	padding: 5% 0%;
+}
+.spl-btn {
+    border: none;
+    color: #fff;
+    background: #4ab0e3 !important;
+    font-size: 15px;
+    margin: 0px 0px 10px 0px;
+    border-radius: 0px;
+    padding: 12px 30px 15px;
+    letter-spacing: 1px;
+    height: 45px;
+}
+.spl-btn img{
+	width:20px;
+    margin-left: 30px;
+	margin-top:-5px;
+	}
+.spl-btn:hover ,.spl-btn:focus{
+	text-decoration:none;
+	color:#fff;
+}
+.padding-spl{
+	padding:20px 0px 30px;
+}
+.security-question h1{
+    font-size: 35px;
+    font-weight: 300;
+    letter-spacing:1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.security-question .form-control {
+    border-radius: 0px;
+    margin: 10px 0px 10px 0px;
+    font-size: 16px;
+    padding: 10px;
+    line-height: 1.5;
+    height: 45px;
+    width: 100%;
+    box-shadow: inset 0 0px 0px rgba(0,0,0,.075);
+    background: transparent;
+    background-image: none;
+}
+.security-question p {
+    margin: 0 0 20px;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+.security-question h2 {
+    font-size: 20px;
+    margin-top: 30px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    color: #3e3d3d;
+}
+.spl-a{
+  color : #4ab0e3 !important;
+  font-size: 15px;
+  letter-spacing: 1px;
+}
+.spl-a:hover, .spl-a:focus{
+	text-decoration:none;
+	color : #4ab0e3 !important;
+}
+.confirmed-txt{
+  color: #0abf0a;
+  font-weight:400;
+  font-size:23px;
+  letter-spacing:1px;
+}
+.security-question h4 {
+    font-size: 17px;
+    letter-spacing: 1px;
+    margin: 2% 0% 1%;
+    color: #585757;
+    font-weight: 400;
+}
+.security-question .sq-text{
+    font-size: 28px;
+    font-weight: 300;
+}
+@media only screen and (max-width:1200px) and (min-width:768px){
+	.security-question .sq-text{
+    font-size: 23px;
+}
+	.security-question{
+	margin-top:20%;
+	padding: 5% 0%;
+}
+.security-question h1 {
+    font-size: 25px;
+}
+.spl-btn {
+    border: none;
+    color: #fff;
+    background: #4ab0e3 !important;
+    font-size: 15px;
+    margin: 0px 0px 0px 0px;
+    border-radius: 0px;
+    padding: 8px 20px 12px;
+    letter-spacing: 1px;
+    height: 38px;
+}
+.padding-spl{
+	padding:20px 0px 20px;
+}
+.spl-btn img {
+    width: 15px;
+}
+}
+
+@media only screen and (max-width:767px) and (min-width:200px){
+	.security-question h2 {
+    font-size: 17px;
+	
+	}
+	.security-question{
+	margin-top:40%;
+	padding: 5% 0%;
+}
+.security-question h1 {
+    font-size: 22px;
+}
+.security-question h4 {
+    font-size: 15px;
+}
+.spl-btn {
+    border: none;
+    color: #fff;
+    background: #4ab0e3 !important;
+    font-size: 14px;
+    margin: 0px 0px 0px 0px;
+    border-radius: 0px;
+    padding: 8px 20px 12px;
+    letter-spacing: 1px;
+    height: 38px;
+}
+.confirmed-txt {
+    font-size: 18px;
+}
+.security-question .sq-text {
+    font-size: 20px;
+}
+.padding-spl{
+	padding:20px 0px 20px;
+}
+.spl-btn img {
+    width: 14px;
+    margin-left: 15px;
+}
+}

@@ -1,0 +1,188 @@
+@media only screen and (max-width:500px) and (min-width:300px){
+.pincode-section {
+    margin-top: 16% !important;
+}
+.cross{
+	    width: 25px;
+}
+.pincode-section .col-sm-1 img{
+	float:right;
+}
+}
+.product-show{
+	background: #f8f8f8;
+	min-height: 270px;
+	margin:1% 1%;
+}
+.product-show.col-md-6:nth-child(2) {
+	padding:2%;
+}
+h1{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    }
+.tab-content{
+	    padding: 3% 1%;
+}
+.product-show1{
+	background: #f8f8f8;
+	min-height: 300px;
+	margin-bottom: 5px;
+	margin-right: -9px;;
+    margin-left: -9px;;
+}
+.product-show img{
+   	width:100%;
+    height: 270px;
+}
+.product-show1 img{
+	width:100%;
+    height: 400px;
+}
+.pincode-section{
+	margin-top: 6%;
+    color: #e6e3e3;
+    padding: 1%;
+}
+.pincode-section input{
+    background: transparent;
+    border: none;
+    color: #e6e3e3;
+    border-bottom: 2px solid #e6e3e3;
+    padding: 5px;
+}
+.pincode-section p{
+    margin: 0 0 5px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.pincode-section h6 {
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+   
+    padding: 10px 40px 10px 5px;
+    color: #4bb7f7;
+    border-bottom: 3px solid #4bb7f7;
+    background-color: transparent;
+}
+.nav-pills>li>a {
+	
+    padding: 10px 40px 10px 5px;
+	border-radius: 0px;
+    color: #6d6e71;
+}
+.nav-pills{
+    font-size: 18px;
+    border-bottom: 2px solid #d7d8da;
+}
+.product-show h3{
+	color: #6d6e71;
+    font-size: 30px;
+        padding: 0px 7px 0px 10px;
+    
+    margin-bottom: 10px;
+    font-weight: 300;
+    text-transform: capitalize;
+}
+.product-show1 h3{
+	color: #6d6e71;
+    font-size: 30px;
+        padding: 0px 7px 0px 10px;
+    
+    margin-bottom: 30px;
+    font-weight: 300;
+    text-transform: capitalize;
+}
+h1{
+	font-weight: 300;
+    color: #6d6e71;
+}
+.product-show p{
+		color: #6d6e71;
+		padding: 0px 7px 0px 10px;
+		max-height: 142px;
+        overflow: hidden;
+}
+.product-show1 p{
+	    padding: 0px 7px 0px 10px;
+	
+		color: #6d6e71;
+}
+.enquiry-div{
+    padding: 9% 0%;
+    background: #4bb7f7;
+}
+.enquiry-div h3{
+	
+    letter-spacing: 1px;
+	font-size: 30px;
+    margin-bottom: 0px;
+    font-weight: 300;
+    line-height: .5;
+    color:#f8f8f8 !important;
+}
+.enquiry-div button{
+
+    color: #f8f8f8;
+    border: 2px solid #f8f8f8;
+    background: transparent;
+    margin-top: 5%;
+    font-size: 17px;
+    padding: 5px 16px;
+    text-transform: capitalize;
+}
+.product-show a{
+	
+        padding-left: 10px;
+		color: #4bb7f7;
+}
+.product-show1 a{
+	    padding-left: 10px;
+		color: #4bb7f7;
+}
+.pincode-section-grey{
+	background: #6d6e71;
+}
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color:#a5a5a5;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: #a5a5a5;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color:#a5a5a5;
+}
+:-moz-placeholder { /* Firefox 18- */
+  color: #a5a5a5;
+}
+.pincode-section button{
+	    border: 2px solid #e6e3e3;
+    background: transparent;
+    padding: 7px 15px;
+}
+.product-list .col-md-6{
+	
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.pincode-section button:hover {
+    border: 2px solid #e6e3e3;
+    background: #5e5e61;
+    }
+    .enquiry-div button:hover {
+    color: #f8f8f8;
+    border: 2px solid #f8f8f8;
+    background: #44aae8;
+    }
+    .cross{
+    cursor:pointer;
+    }
+    .spacer {
+    height: 80px;
+    display: none;
+
+    }
